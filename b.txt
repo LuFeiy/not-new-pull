@@ -1,1 +1,2 @@
 Connect to third-party data sources, browse metadata, and optimize by pushing the computation to the data.
+The foundation for your next high-performance database
